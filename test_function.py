@@ -1,6 +1,6 @@
 from function import add, subtract, multiply
-from function import conver_fahrenheit_to_celsius
-# import pytest
+from function import convert_fahrenheit_to_celsius
+import pytest
 
 
 def test_add():
